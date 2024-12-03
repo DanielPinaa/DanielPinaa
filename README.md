@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/DanielPinaa/DanielPina/raw/main/BANNER.png" alt="Daniel Pina Rica's Banner" />
+  <img src="banner.jpg" alt="Daniel Pina Rica's Banner" />
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Daniel Pina Rica</h1>
