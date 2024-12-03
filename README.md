@@ -36,7 +36,7 @@ I am a software engineer with experience in designing, implementing, and maintai
 - AWS (S3, EC2, RDS, Lambda)
 
 **Others**
-- REST API, Testing (JUnit Test).
+- REST API, Testing (JUnit Test) and Android.
 
 ---
 
