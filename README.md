@@ -15,7 +15,7 @@
 
 I am a software engineer with experience in designing, implementing, and maintaining scalable applications. My areas of expertise include:
 - **Object Oriented Programming**: Crafting modern applications using backend technologies such as **C**, **Java**, **Python**, and **C#**.
-- **Cloud Architecture**: Deploying solutions with **AWS** (S3, EC2, RDS, Lambda) and **Azure**.
+- **Cloud Architecture**: Deploying solutions with **AWS** (S3, EC2, RDS, Lambda).
 - **DevOps and CI/CD**: Automating workflows with tools like **GitLab** and **GitHub Actions**.
 - **Database Management**: Designing and managing relational databases (**MySQL**, **PostgreSQL**).
 
