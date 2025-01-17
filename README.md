@@ -2,7 +2,7 @@
 <p align="center">
   <img src="banner.jpg" alt="Daniel Pina Rica's Banner" />
 </p>
-
+ 
 <h1 align="center">Hi there! 👋 I'm Daniel Pina Rica</h1>
 
 <p align="center">
